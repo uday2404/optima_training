@@ -1,0 +1,18 @@
+.bgcolor{
+  background-image: linear-gradient(rgba(3,3,3,0.5), rgba(82,75,75,0.5)),
+  url('./book2.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+  align-items: center;
+  display: flex;
+}
+.userbox{
+  background-color: rgb(250,241,241);
+  border-radius: 5px;
+}
+.form{
+  font-family: 'Times New Roman', Times, serif;
+}
